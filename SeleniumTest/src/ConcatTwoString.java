@@ -6,6 +6,7 @@ public class ConcatTwoString {
 
         System.out.println(a.concat(b));
         System.out.println(a.concat(b));
-        //System.out.println(c);
+
+        System.out.println('c');
     }
 }
